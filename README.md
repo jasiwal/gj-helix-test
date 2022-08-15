@@ -5,9 +5,15 @@ Your project's description...
 - Preview: https://main--{repo}--{owner}.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
-https://main--gj-helix-test--jasiwal.hlx.live/
+*****
 
-https://drive.google.com/drive/u/0/folders/18OMoXhCS2ZBDe4OJB0rJ_tU3xMCSTJjE
+Live site: https://main--gj-helix-test--jasiwal.hlx.live/
+
+Live doc content: https://drive.google.com/drive/u/0/folders/18OMoXhCS2ZBDe4OJB0rJ_tU3xMCSTJjE
+
+*****
+Helix Menifesto: https://www.hlx.live/docs/manifesto
+*****
 
 ## Installation
 
